@@ -1,6 +1,6 @@
 # Hello :wave:, I'm Akhilesh
 
-Integrated M.Tech Computer Science Specialization in Cyber Security (Pre - Final Year) | System Design | C++ | Docker
+Integrated M.Tech Computer Science Specialization in Cyber Security (Final Year) | System Design | C++ | Docker
 
 <div align="center">
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="720" height="340" />
